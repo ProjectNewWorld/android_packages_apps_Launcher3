@@ -70,7 +70,7 @@
             android:entryValues="@array/adaptive_icon_mask_values"
             android:persistent="true"
             android:dependency="pref_adaptiveIcons"
-            android:defaultValue="@string/icon_mask_square_string" />
+            android:defaultValue="@string/icon_mask_circle_string" />
 
         <SwitchPreference
             android:key="pref_legacyIcons"
